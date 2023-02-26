@@ -195,7 +195,7 @@ function HeroSlide({ mediaType, mediaCategory }) {
                     to={routesGen.mediaDetail(mediaType, movie.id)}
                     sx={{ width: 'max-content' }}
                   >
-                    watch now
+                    MORE DETAILS
                   </Button>
                   {/* buttons */}
                 </Stack>
