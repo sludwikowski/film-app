@@ -1,5 +1,3 @@
-import HomeOutlinedIcon from '@mui/icons-material/HomeOutlined';
-
 const main = [
   {
     display: 'home',
